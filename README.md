@@ -30,7 +30,7 @@ If you want to run it with https, and run it on a proper domain
 (not 127.0.0.1), and enable Facebook/Twitter/Github logins, you'll need to take care of 
 a few additional steps - 
 
-Please read the [required steps in the wiki](wiki)
+Please read the [required steps in the wiki](https://github.com/coding-blocks/oneauth/wiki)
 
 -------------------------
 
@@ -76,7 +76,7 @@ Retrieve the bearer token from the response body
 _Ensure you do not leak client secret
 to the frontend_
 
-Read in detailed [step by step instructions in the wiki](wiki)
+Read in detailed [step by step instructions in the wiki](https://github.com/coding-blocks/oneauth/wiki)
 
 -------------------------
 
